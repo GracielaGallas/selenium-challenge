@@ -1,0 +1,8 @@
+/reports/*
+.idea/
+.DS_Store
+/target
+/chromedriver
+*.exe
+*.iml
+*.properties
